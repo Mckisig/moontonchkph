@@ -43,7 +43,7 @@ If you want to replace the combolist you can try the easy method:<br>
 Other Commands in Termux Visit: https://www.learntermux.tech/2020/01/basic-commands-in-termux.html/<br>
 <br>
 <br>
-<br>Contact JemPH: t/me/JemPH/<br>
+<br>Contact JemPH: https://t.me/JemPH/<br>
 <b>PREMIUM FEATURES are limited in Free Users. Make sure to get an account subscription to get Lifetime Access.<br>
 <br>
 Tip: Delete the list.txt once you're done and replace with the new one to place new combolist or add new combolist name.<br>
