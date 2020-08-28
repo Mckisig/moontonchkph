@@ -7,6 +7,8 @@ Register to get access.<br>
 2nd Put the combolist you have in the checker's directory to be able to locate the file directly.<br>
 3rd Run the Moonton Checker.<br>
 
+Video Tutorial Link Here: [VIDEO TUTORIAL CLICK ME](https://streamable.com/j64h83)<br>
+
 
 ## Commands:
 ```pkg update && pkg upgrade``` 
@@ -39,6 +41,7 @@ If you want to replace the combolist you can try the easy method:<br>
 ```rm -rf name.txt``` use to remove files in the current directory.<br>
 ```cp -r name.txt /sdcard/``` use to copy files from the current directory to storage.<br>
 ```mv -r name.txt /sdcard/``` use to move files from the current directory to storage.<br>
+
 
 Other Commands in Termux Visit: https://www.learntermux.tech/2020/01/basic-commands-in-termux.html/<br>
 <br>
