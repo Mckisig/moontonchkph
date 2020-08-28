@@ -19,7 +19,7 @@ Register to get access.<br>
 
 ```git clone https://github.com/JemPH/moontonchkph```
 
-```cd mlchkph``` if you already installed all the requirements above you can run this command. while running back termux.<br>
+```cd moontonchkph``` if you already installed all the requirements above you can run this command. while running back termux.<br>
 
 ```python run.py``` after that execute the script by this command.<br>
 
